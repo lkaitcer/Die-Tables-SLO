@@ -85,7 +85,7 @@ html, body {
 	margin-left: .5%;
 	display: inline-block;
 	vertical-align: middle;
-	position: fixed;
+	position: absolute;
 	top:0;
 	left:0;
 }
